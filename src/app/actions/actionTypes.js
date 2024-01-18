@@ -1,0 +1,2 @@
+export const REGISTER_USER='REGISTER_USER';
+export const ADD_TO_COURSE='ADD_TO_COURSE';
